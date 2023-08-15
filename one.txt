@@ -1,1 +1,3 @@
 something one
+echo "Devops is Good"
+echo "Thamk you snr Jeff"
