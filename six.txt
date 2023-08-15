@@ -1,7 +1,4 @@
 echo "Devops Is Good"
-<<<<<<< HEAD
 echo "You"
-
-=======
 echo "Hey"
->>>>>>> e36d926ce3637019a2f272dd0d5890bec520f917
+
