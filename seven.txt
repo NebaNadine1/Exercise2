@@ -1,2 +1,3 @@
 echo "Hey"
+echo "Tomorrow is Wednesday"
 
